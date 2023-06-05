@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bielvhv3@gmail.com**
 
-- 📄 Know about my experiences [I'm studying Front-end development since 01/2023](I'm studying Front-end development since 01/2023)
+- 📄 Know about my experiences **I'm studying Front-end development since 01/2023**
 
 - ⚡ Fun fact **I live for study**
 
