@@ -26,7 +26,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentepg&theme=transparent&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=valentepg&show_icons=true&theme=transparent">
-<a href="https://github.com/valentepg/challenge-one-alura" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valentepg&theme=transparent&show_owner=true&repo=challenge-one-alura">
-<a href="https://github.com/valentepg/frontendmentor-qrcode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valentepg&theme=transparent&show_owner=true&repo=frontendmentor-qrcode">
+<!-- <a href="https://github.com/valentepg/challenge-one-alura" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valentepg&theme=transparent&show_owner=true&repo=challenge-one-alura">
+<a href="https://github.com/valentepg/frontendmentor-qrcode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valentepg&theme=transparent&show_owner=true&repo=frontendmentor-qrcode"> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentepg&theme=transparent"></div>
   
