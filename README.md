@@ -25,6 +25,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentepg&theme=transparent&layout=donut">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=valentepg&show_icons=true&theme=transparent">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentepg&theme=transparent"></div>
   
