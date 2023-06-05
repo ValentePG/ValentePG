@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valentepg&show_icons=true&locale=en&layout=compact" alt="valentepg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentepg&show_icons=true&locale=en" alt="valentepg" /></p>
+![ValentePG's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentepg&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentepg&" alt="valentepg" /></p>
 
