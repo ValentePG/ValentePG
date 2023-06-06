@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentepg&label=Profile%20views&color=0e75b6&style=flat" alt="valentepg" /> </p>
 
-- 🌱 I’m currently learning **Javascript,UI/UX Design**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValentePG](https://github.com/ValentePG)
 
