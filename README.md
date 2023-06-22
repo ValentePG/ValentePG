@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentepg&label=Profile%20views&color=0e75b6&style=flat" alt="valentepg" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValentePG](https://github.com/ValentePG)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS, JS**
 
 - 📄 Know about my experiences **I'm studying Front-end development since 01/2023**
 
