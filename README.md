@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValentePG](https://github.com/ValentePG)
 
-- 💬 Ask me about **HTML,CSS, JS**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📄 Know about my experiences **I'm studying Front-end development since 01/2023**
 
