@@ -12,8 +12,8 @@ A student of the art of coding for almost 1 year and a half, I started studying 
 
 
 *   🌍  I'm based in Rio de Janeiro
-*   🖥️  See my portfolio at [MyPortfolio](http://valentepg.github.io/challenge-portfolio-front-end/)
-*   ✉️  You can contact me at [bielvhv3@gmail.com](mailto:bielvhv3@gmail.com)
+*   🖥️  See my portfolio at -------
+*   ✉️  You can contact me at [gvalentedev3@gmail.com](mailto:gvalentedev@gmail.com)
 *   🚀  I'm currently working on [course-platform](http://github.com/ValentePG/course-platform)
 *   🧠  I'm learning SpringBoot and Angular
 *   🤝  I'm open to collaborating on Other web-sites projects
