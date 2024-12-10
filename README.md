@@ -2,11 +2,7 @@
 
 <h1 align="center">Hi! My name is Gabriel Valente</h1>
 
-
-<h2 align="center">Web Developer</h2>
-
-
-A student of the art of coding for almost 1 year and a half, I started studying front-end but ended up also being interested in the back-end and the whole process behind the screens, so today my studies are focused on becoming a full-stack.
+<h2 align="center">Back-end Web Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -40,9 +36,6 @@ A student of the art of coding for almost 1 year and a half, I started studying 
 
 <b>My GitHub Stats</b>
 
-<a
-href="http://www.github.com/ValentePG"><img src="https://github-readme-stats.vercel.app/api?username=ValentePG&&theme=tokyonight&layout=donut" alt="ValentePG's GitHub stats" /></a>
-<a
-href="http://www.github.com/ValentePG"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ValentePG&&theme=tokyonight&layout=donut" /></a>
+<a href="https://www.github.com/ValentePG"><img src="https://github-readme-stats.vercel.app/api?username=ValentePG&&theme=tokyonight&layout=donut" alt="ValentePG's GitHub stats" /></a>
+<a href="https://www.github.com/ValentePG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentePG&&theme=tokyonight&layout=donut" alt="Streaks"/></a>
 <a href="https://github.com/ValentePG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentePG&&theme=tokyonight&layout=donut" alt="Top Languages" /></a>
