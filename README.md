@@ -8,7 +8,7 @@
 
 ### Skills 
 
-<p align="left">
+<!-- <p align="left"> -->
 
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,python,html,css,javascript,typescript,angular">
                     
