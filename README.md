@@ -36,7 +36,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://www.github.com/ValentePG"><img src="https://github-readme-stats.vercel.app/api?username=ValentePG&&theme=tokyonight&layout=donut" alt="ValentePG's GitHub stats" /></a>
-<a href="https://www.github.com/ValentePG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentePG&&theme=tokyonight&layout=donut" alt="Streaks"/></a>
-<a href="https://github.com/ValentePG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentePG&&theme=tokyonight&layout=donut" alt="Top Languages" /></a>
+<a href="https://www.github.com/ValentePG" align="center"><img src="https://github-readme-stats.vercel.app/api?username=ValentePG&&theme=tokyonight&layout=donut" alt="ValentePG's GitHub stats" /></a>
+<a href="https://www.github.com/ValentePG" align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentePG&&theme=tokyonight&layout=donut" alt="Streaks"/></a>
+<a href="https://github.com/ValentePG" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentePG&&theme=tokyonight&layout=donut" alt="Top Languages" /></a>
 
