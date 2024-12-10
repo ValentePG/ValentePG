@@ -10,15 +10,6 @@ A student of the art of coding for almost 1 year and a half, I started studying 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-
-*   🌍  I'm based in Rio de Janeiro
-*   🖥️  See my portfolio at -------
-*   ✉️  You can contact me at [valentedev3@gmail.com](mailto:valentedev3@gmail.com)
-*   🚀  I'm currently working on [course-platform](http://github.com/ValentePG/course-platform)
-*   🧠  I'm learning SpringBoot and Angular
-*   🤝  I'm open to collaborating on Other web-sites projects
-*   ⚡  I want to be good enough to help other people with their own life projects
-
 ### Skills 
 
 <p align="left">
