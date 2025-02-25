@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> -->
 
-<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=java,spring,postgres,docker">
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,javascript,typescript">
                     
 ### Socials
 
@@ -35,6 +35,7 @@
 
 <b>My GitHub Stats</b>
 
+<p align="center"></p>
 <a href="https://www.github.com/ValentePG"><img src="https://github-readme-stats.vercel.app/api?username=ValentePG&&theme=tokyonight&layout=donut" alt="ValentePG's GitHub stats" /></a>
 <!-- <a href="https://www.github.com/ValentePG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentePG&&theme=tokyonight&layout=donut" alt="Streaks"/></a> -->
 <a href="https://github.com/ValentePG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentePG&&theme=tokyonight&layout=donut" alt="Top Languages" /></a>
